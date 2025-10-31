@@ -1,0 +1,12 @@
+os
+datetime
+random
+wikipedia
+webbrowser
+speechrecognition
+pyttsx3
+pyautogui
+psutil
+pyjokes
+python-dotenv
+google-generativeais
